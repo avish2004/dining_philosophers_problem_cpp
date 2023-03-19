@@ -1,2 +1,2 @@
 # dining_philosophers_problem_cpp
-FAANG
+Infamous FAANG Problems
